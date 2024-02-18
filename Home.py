@@ -1,8 +1,4 @@
 import streamlit as st 
-from pages import Dashboard
-
-
-
 st.title(":orange[Chegg]", help = "largest Tutoring Center ")
 st.subheader("Hello Cheruku Rahul",anchor = False)
 st.title(":bold[What would you like to do today?]",anchor = False)
