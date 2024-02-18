@@ -2,9 +2,6 @@ import streamlit as st
 
 def run():
     col1, col2, col3 = st.columns([0.25,0.5,0.25])
-    with col2:
-        #st.image("Images\C.Rahul_passport.jpg",width = 150, caption = "Cheruku Rahul" )
-    
     with st.expander("Education Background") :
         st.write("Degree: B_tech")
     with st.expander("Skills"):
