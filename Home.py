@@ -1,6 +1,6 @@
 import streamlit as st 
 from pages import Dashboard
-from streamlit_option_menu import option_menu;
+
 
 
 st.title(":orange[Chegg]", help = "largest Tutoring Center ")
