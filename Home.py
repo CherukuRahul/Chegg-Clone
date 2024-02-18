@@ -1,5 +1,6 @@
 import streamlit as st 
 import Images 
+import pages
 st.title(":orange[Chegg]", help = "largest Tutoring Center ")
 st.subheader("Hello Cheruku Rahul",anchor = False)
 st.title(":bold[What would you like to do today?]",anchor = False)
