@@ -1,6 +1,6 @@
 import streamlit as st
 
-import Homi, Expert, Solution,Stats, Account
+#import Homi, Expert, Solution,Stats, Account
 god = st.container()
 #row1 = st.columns(1)
 with god :
