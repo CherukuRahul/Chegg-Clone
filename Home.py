@@ -7,7 +7,7 @@ row1 ,row2 = st.columns([0.7,0.3])
 
 with row1 :
     x = st.container(border = True)
-    x.image("Images\computer.jpg", width = 100)
+    x.image("Images/computer.jpg", width = 100)
     x.page_link(page = "pages/Dashboard.py"  ,
                 label = ":bold[Expert Q&A]",
                  use_container_width = True )
